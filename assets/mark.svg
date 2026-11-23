@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="176" height="176" viewBox="0 0 176 176" role="img" aria-labelledby="iconTitle iconDescription">
+  <title id="iconTitle">Python — лабораторные работы</title>
+  <desc id="iconDescription">Минималистичная пиксельная буква P из семи бирюзовых плиток на тёмном фоне</desc>
+  <defs>
+    <linearGradient id="tile" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101E2B"/>
+      <stop offset="1" stop-color="#080F1B"/>
+    </linearGradient>
+    <linearGradient id="mint" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3CFFCF"/>
+      <stop offset="1" stop-color="#12E8AA"/>
+    </linearGradient>
+    <linearGradient id="teal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0FC5B6"/>
+      <stop offset="1" stop-color="#078C8C"/>
+    </linearGradient>
+    <linearGradient id="deep" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#147F7D"/>
+      <stop offset="1" stop-color="#0C646C"/>
+    </linearGradient>
+  </defs>
+  <rect x="3" y="3" width="170" height="170" rx="38" fill="url(#tile)"/>
+  <rect x="3.75" y="3.75" width="168.5" height="168.5" rx="37.25" fill="none" stroke="#29434C" stroke-opacity=".58" stroke-width="1.5"/>
+  <!-- Abstract pixel-P / modular data matrix -->
+  <rect x="43" y="43" width="27" height="27" rx="6" fill="url(#deep)"/>
+  <rect x="74.5" y="43" width="27" height="27" rx="6" fill="url(#teal)"/>
+  <rect x="106" y="43" width="27" height="27" rx="6" fill="url(#mint)"/>
+  <rect x="43" y="74.5" width="27" height="27" rx="6" fill="url(#deep)"/>
+  <rect x="74.5" y="74.5" width="27" height="27" rx="6" fill="url(#teal)"/>
+  <rect x="106" y="74.5" width="27" height="27" rx="6" fill="url(#teal)"/>
+  <rect x="43" y="106" width="27" height="27" rx="6" fill="url(#deep)"/>
+</svg>
