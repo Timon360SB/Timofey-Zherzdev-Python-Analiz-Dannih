@@ -42,6 +42,16 @@
       <td><b>Лабораторная работа № 2</b></td>
       <td align="center"><a href="./Lab%202/">Открыть папку</a></td>
     </tr>
+    <tr>
+      <td align="center"><code>2.1</code></td>
+      <td><b>Лабораторная работа № 2.1</b></td>
+      <td align="center"><a href="./Lab2.1/">Открыть папку</a></td>
+    </tr>
+    <tr>
+      <td align="center"><code>3</code></td>
+      <td><b>Лабораторная работа № 3</b></td>
+      <td align="center"><a href="./Lab3/">Открыть папку</a></td>
+    </tr>
   </tbody>
 </table>
 
